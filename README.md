@@ -25,7 +25,7 @@
 <p><a href="https://compiler81.netlify.app/"><b><i>8BITᵇᵉᵗᵃ</i></b></a> : 8BIT is an online compiler currently in development stage, created with<a href="https://github.com/lucky12651"> @lucky12651</a>, combining the power of Bootstrap, HTML, CSS, JS, and Python to provide a user-friendly coding experience. </p>
 <p><a href="https://t.me/edBiharBot"><b><i>Telegram Bot - edBihar</i></b></a> : A Telegram bot designed for collaborative project work with EdBihar, powered by Python and MySQL</p>
 <p><a href="https://r1sh4bh81.github.io/magegame/"><b><i>Mage Game</i></b></a> : This is a fun and exciting adventure game that pays homage to the classic Super Mario while adding its own unique twists.</p>
-
+<p><img src="https://image.ibb.co/kHHeny/hor_line.png"></p>
 <br><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r1sh4bh81&show_icons=true&locale=en&layout=compact" alt="r1sh4bh81" /></p>
 
