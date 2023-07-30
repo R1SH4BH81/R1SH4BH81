@@ -20,7 +20,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=R1SH4BH81&show_icons=true&locale=en&layout=compact" alt="R1SH4BH81" height="300" width="400" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=R1SH4BH81&show_icons=true&locale=en" alt="R1SH4BH81"  /></p>
-<p><img align="left"  src="https://github-readme-streak-stats.herokuapp.com/?user=R1SH4BH81&" alt="R1SH4BH81" width="475px" /></p>
+<p><img align="left"  src="https://github-readme-streak-stats.herokuapp.com/?user=R1SH4BH81&" alt="R1SH4BH81" width="475px" margin-top : 10px/></p>
 
 
 <p align="left"> <a href="https://twitter.com/Rishabh67896796" target="blank"><img src="https://img.shields.io/twitter/follow/Rishabh?logo=twitter&style=for-the-badge" alt="Rishabh Mishra" /></a> <br> <img src="https://komarev.com/ghpvc/?username=r1sh4bh81&label=Profile%20views&color=0e75b6&style=flat" alt="Rishabh Mishra" /></p>
