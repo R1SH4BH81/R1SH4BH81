@@ -25,9 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r1sh4bh81&show_icons=true&locale=en" alt="r1sh4bh81" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=r1sh4bh81&" alt="r1sh4bh81" /></p><br> <img src="https://komarev.com/ghpvc/?username=r1sh4bh81&label=Profile%20views&color=0e75b6&style=flat" alt="Rishabh Mishra" />
- <a href="https://codepen.io/rishabhmishra" target="_blank" class="codepen-button">
-    Follow on CodePen
-    <img src="https://blog.codepen.io/documentation/assets/img/logos/codepen-logo-black.svg" alt="CodePen Logo" width="16" height="16" class="codepen-logo">
-  </a>
-  <a href="https://codepen.io/rishabhmishra" target="blank"></a> 
+  <a href="https://codepen.io/rishabhmishra" target="blank"><img src="https://img.shields.io/twitter/follow/rishabh67896796?logo=twitter&style=for-the-badge" alt="rishabh67896796" />
 </body></p>
