@@ -15,21 +15,12 @@
 
 - 📫 Reach me **<rishabhmishra.81e@gmail.com>**
 
-<h3 align="left">Connect with me</h3>
-<p align="left">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-
-<!-- Use the Font Awesome icon -->
-
-<a href="https://codepen.io/rishabhmishra" target="blank" style="text-decoration: none; color: black;">Codepen</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/rishabh67896796" target="blank" style="text-decoration: none; color: black;">Twitter</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/r1shabh81" target="blank" style="text-decoration: none; color: black;">LinkedIn</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r1sh4bh81&show_icons=true&locale=en&layout=compact" alt="r1sh4bh81" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r1sh4bh81&show_icons=true&locale=en&layout=compact" alt="r1sh4bh81" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r1sh4bh81&show_icons=true&locale=en" alt="r1sh4bh81" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=r1sh4bh81&" alt="r1sh4bh81" /></p><br> <img src="https://komarev.com/ghpvc/?username=r1sh4bh81&label=Profile%20views&color=0e75b6&style=flat" alt="Rishabh Mishra" />
-  <a href="https://codepen.io/rishabhmishra" target="blank"><img src="https://img.shields.io/twitter/follow/on Codepen?logo=codepen&style=for-the-badge" alt="rishabh" />
+  <a href="https://codepen.io/rishabhmishra" target="blank"><img src="https://img.shields.io/twitter/follow/on Codepen?logo=codepen&style=for-the-badge" alt="rishabhmishra" />
     <a href="https://twitter.com/rishabh67896796" target="blank"><img src="https://img.shields.io/twitter/follow/rishabh67896796?logo=twitter&style=for-the-badge" alt="rishabh67896796" /></a>
-    <a href="https://twitter.com/rishabh67896796" target="blank"><img src="https://img.shields.io/twitter/follow/rishabh67896796?logo=linkedin&style=for-the-badge" alt="rishabh67896796" /></a>
+    <a href="https://linkedin.com/in/r1shabh81" target="blank"><img src="https://img.shields.io/twitter/follow/rishabh67896796?logo=linkedin&style=for-the-badge" alt="r1shabh81" /></a>
 </body>
