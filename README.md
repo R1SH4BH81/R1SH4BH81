@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I am still Searching for this**
 
-- 📫 Reach me **<rishabhmishra.81e@gmail.com>**
+- 📫 Reach me at **<rishabhmishra.81e@gmail.com>**
   <br><br>
    <img src="https://komarev.com/ghpvc/?username=r1sh4bh81&label=Profile%20views&color=0e75b6&style=flat" alt="Rishabh Mishra" /><br>
   <a href="https://codepen.io/rishabhmishra" target="blank"><img src="https://img.shields.io/twitter/follow/r1shabhmishra?logo=codepen&style=for-the-badge" alt="rishabhmishra" />
