@@ -1,7 +1,7 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://www.linkedin.com/in/r1shabh81/)
 <h1 align="center">Hi 👋, I'm Rishabh Mishra</h1>
-<h3 align="center">Web/Software Developer | Python</h3>
-<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" align="right" width="400">
+<h3 align="center">Web/Software Developer | Python </h3>
+<img src="[https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif](https://c.tenor.com/hVmM21uY9hEAAAAC/homer-simpson.gif)" align="right" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r1sh4bh81&label=Profile%20views&color=0e75b6&style=flat" alt="Rishabh Mishra" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Python** , **Algorithms** , **Database** , **Web Development**
 
-- 📫 How to reach me **<rishabhmishra.81e@gmail.com>**
+- 📫 Reach me **<rishabhmishra.81e@gmail.com>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
