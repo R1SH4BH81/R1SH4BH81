@@ -21,7 +21,7 @@
     <a href="https://linkedin.com/in/r1shabh81" target="blank"><img src="https://img.shields.io/twitter/follow/r1shabh81?logo=linkedin&style=for-the-badge" alt="r1shabh81" /></a>
 <br><br>
 <h3>Recent Projects</h3>
-<p><a href="https://musicplayer81.netlify.app/"><p>**Music Player**</p></a></p>
+<p><a href="https://musicplayer81.netlify.app/"><b><i>Music Player</i></b></a></p>
 <br><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r1sh4bh81&show_icons=true&locale=en&layout=compact" alt="r1sh4bh81" /></p>
 
