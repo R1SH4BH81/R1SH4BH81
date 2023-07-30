@@ -1,7 +1,7 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://www.linkedin.com/in/r1shabh81/)
 <h1 align="center">Hi 👋, I'm Rishabh Mishra</h1>
 <h3 align="center">Web/Software Developer | Python </h3>
-<img src="[https://ci6.googleusercontent.com/proxy/6yONIoTPFRxmcUzOEqGb9rYBV6ot9p2T-PEXVCf8vS8efQLz1Q0yo4Sa6U0lrDqnZIcEDq445nqEDoRcH9cyZobRVuLb3o8oyyjpFXZX1jC-Y1aa-YGJ3kxAAgGaX-S0gw4Tt_8xte_q=s0-d-e1-ft#https://www.lambdatest.com/blog/wp-content/uploads/2021/02/ezgif.com-gif-maker-1-1.gif](https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif)" align="right" width="400">
+<img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" align="right" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r1sh4bh81&label=Profile%20views&color=0e75b6&style=flat" alt="Rishabh Mishra" /> </p>
 
