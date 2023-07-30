@@ -17,9 +17,9 @@
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
-<a href="https://codepen.io/rishabhmishra" target="blank">CODEPEN<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="rishabhmishra" height="30" width="40" /></a>
-<a href="https://twitter.com/rishabh67896796" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishabh67896796" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/r1shabh81" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="r1shabh81" height="30" width="40" /></a>
+<a href="https://codepen.io/rishabhmishra" target="blank">CODEPEN<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"  height="30" width="40" /></a>
+<a href="https://twitter.com/rishabh67896796" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/r1shabh81" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40" /></a>
 </p><p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r1sh4bh81&show_icons=true&locale=en&layout=compact" alt="r1sh4bh81" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r1sh4bh81&show_icons=true&locale=en" alt="r1sh4bh81" /></p>
