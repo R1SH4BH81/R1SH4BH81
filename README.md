@@ -22,7 +22,7 @@
 <br><br>
 <h3>Recent Projects</h3>
 <p><a href="https://musicplayer81.netlify.app/"><b><i>Music Player</i></b></a> : An interactive and playful music player crafted with HTML, CSS, JS, and jQuery, designed purely for fun and enjoyment</p>
-<p><a href="https://compiler81.netlify.app/"><b><i>8BITᵇᵉᵗᵃ</i></b></a> : 8BIT is an online compiler currently in development stage, created with @lucky12651, combining the power of Bootstrap, HTML, CSS, JS, and Python to provide a user-friendly coding experience. </p>
+<p><a href="https://compiler81.netlify.app/"><b><i>8BITᵇᵉᵗᵃ</i></b></a> : 8BIT is an online compiler currently in development stage, created with<a href="https://github.com/lucky12651"> @lucky12651</a>, combining the power of Bootstrap, HTML, CSS, JS, and Python to provide a user-friendly coding experience. </p>
 <p><a href="https://t.me/edBiharBot"><b><i>Telegram Bot - edBihar</i></b></a> : A Telegram bot designed for collaborative project work with EdBihar, powered by Python and MySQL</p>
 
 <br><br>
