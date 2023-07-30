@@ -18,8 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Rishabh67896796" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Rishabh Mishra" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/vaibhav-srivastava-63684477/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav-srivastava-63684477" height="30" width="40" /></a>
-<a href="https://instagram.com/vaibhav_fall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vaibhav_fall" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/r1shabh81/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="r1shabh81" height="30" width="40" /></a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=R1SH4BH81&show_icons=true&locale=en&layout=compact" alt="R1SH4BH81" /></p>
 
