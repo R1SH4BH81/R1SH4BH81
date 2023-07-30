@@ -21,9 +21,9 @@
 
 <!-- Use the Font Awesome icon -->
 
-<a href="https://codepen.io/rishabhmishra" target="blank">Codepen</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/rishabh67896796" target="blank">Twitter</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/r1shabh81" target="blank">LinkedIn</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://codepen.io/rishabhmishra" target="blank" style="text-decoration: none; color: black;">Codepen</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/rishabh67896796" target="blank" style="text-decoration: none; color: black;">Twitter</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/r1shabh81" target="blank" style="text-decoration: none; color: black;">LinkedIn</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r1sh4bh81&show_icons=true&locale=en&layout=compact" alt="r1sh4bh81" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r1sh4bh81&show_icons=true&locale=en" alt="r1sh4bh81" /></p>
