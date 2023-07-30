@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
-<a href="https://codepen.io/rishabhmishra" target="blank">CODEPEN<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"  height="30" width="40" /></a>
+<a href="https://codepen.io/rishabhmishra" target="blank">CODEPEN<img align="center" src="https://dribbble.com/shots/12521453-Codepen-Icon-3D/attachments/4128210?mode=media"  height="30" width="40" /></a>
 <a href="https://twitter.com/rishabh67896796" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/r1shabh81" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40" /></a>
 </p><p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r1sh4bh81&show_icons=true&locale=en&layout=compact" alt="r1sh4bh81" /></p>
