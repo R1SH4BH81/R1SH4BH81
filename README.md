@@ -3,7 +3,7 @@
 <h3 align="center">Web/Software Developer | Python</h3>
 <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" align="right" width="400">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=&label=Profile%20views&color=0e75b6&style=flat" alt="Rishabh Mishra" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=r1sh4bh81&label=Profile%20views&color=0e75b6&style=flat" alt="Rishabh Mishra" /> </p>
 
 <p align="left"> <a href="https://twitter.com/Rishabh67896796_" target="blank"><img src="https://img.shields.io/twitter/follow/Rishabh?logo=twitter&style=for-the-badge" alt="Rishabh Mishra" /></a> </p>
 
