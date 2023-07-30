@@ -4,13 +4,12 @@
 <!--<img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" align="right" width="400">-->
 
 
-- 🔭 I’m currently working on **Algorithms**
+- 🔭 I’m currently working on **[8BIT](https://github.com/R1SH4BH81/8BIT)**
 
 - 🌱 I’m currently learning **C++**
 
 - 💬 Ask me about **Python** , **Algorithms** , **Database** , **Web Development**
   
-- - 🔭 I’m currently working on [8BIT](https://github.com/R1SH4BH81/8BIT)
 
 - ⚡ Fun fact **I am still Searching for this**
 
@@ -23,8 +22,4 @@
 <a href="https://linkedin.com/in/r1shabh81" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="r1shabh81" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r1sh4bh81&show_icons=true&locale=en&layout=compact" alt="r1sh4bh81" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r1sh4bh81&show_icons=true&locale=en" alt="r1sh4bh81" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=r1sh4bh81&" alt="r1sh4bh81" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=R1SH4BH81&show_icons=true&locale=en&layout=compact" alt="R1SH4BH81" height="300" width="400" /></p> <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=R1SH4BH81&show_icons=true&locale=en" alt="R1SH4BH81"  /></p> <p><img align="left"  src="https://github-readme-streak-stats.herokuapp.com/?user=R1SH4BH81&" alt="R1SH4BH81" width="471px" /></p> <p align="left"> <a href="https://twitter.com/Rishabh67896796" target="blank"><img src="https://img.shields.io/twitter/follow/Rishabh?logo=twitter&style=for-the-badge" alt="Rishabh Mishra" /></a> <br> <img src="https://komarev.com/ghpvc/?username=r1sh4bh81&label=Profile%20views&color=0e75b6&style=flat" alt="Rishabh Mishra" /></p>
