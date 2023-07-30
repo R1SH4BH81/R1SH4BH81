@@ -21,9 +21,10 @@
     <a href="https://linkedin.com/in/r1shabh81" target="blank"><img src="https://img.shields.io/twitter/follow/r1shabh81?logo=linkedin&style=for-the-badge" alt="r1shabh81" /></a>
 <br><br>
 <h3>Recent Projects</h3>
-<p><a href="https://musicplayer81.netlify.app/"><b><i>Music Player</i></b></a> - An interactive and playful music player crafted with HTML, CSS, JS, and jQuery, designed purely for fun and enjoyment</p>
-<p><a href="https://t.me/edBiharBot"><b><i>Telegram Bot - edBihar</i></b></a> - A Telegram bot designed for collaborative project work with EdBihar, powered by Python and MySQL</p>
-<p><a href="https://musicplayer81.netlify.app/"><b><i>Music Player</i></b></a></p>
+<p><a href="https://musicplayer81.netlify.app/"><b><i>Music Player</i></b></a> : An interactive and playful music player crafted with HTML, CSS, JS, and jQuery, designed purely for fun and enjoyment</p>
+<p><a href="https://compiler81.netlify.app/"><b><i>8BITᵇᵉᵗᵃ</i></b></a> : 8BIT is an online compiler currently in development stage, created with @lucky12651, combining the power of Bootstrap, HTML, CSS, JS, and Python to provide a user-friendly coding experience. </p>
+<p><a href="https://t.me/edBiharBot"><b><i>Telegram Bot - edBihar</i></b></a> : A Telegram bot designed for collaborative project work with EdBihar, powered by Python and MySQL</p>
+
 <br><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r1sh4bh81&show_icons=true&locale=en&layout=compact" alt="r1sh4bh81" /></p>
 
