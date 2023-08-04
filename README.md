@@ -1,5 +1,5 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://www.linkedin.com/in/r1shabh81/)
-<h1 align="center">Hi 👋, I'm Rishabh Mishra</h1>
+<h1 align="center"><img src="https://orig00.deviantart.net/a4fc/f/2015/272/2/b/fire_animation___test___by_silversmicee-d9bdp4u.png" style="width:50px ;height:75px ;">Hi 👋, I'm Rishabh Mishra<img src="https://orig00.deviantart.net/a4fc/f/2015/272/2/b/fire_animation___test___by_silversmicee-d9bdp4u.png" style="width:50px ;height:75px ;"></h1>
 <h3 align="center">Web/Software Developer | Python </h3>
 <!--<img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" align="right" width="400">-->
 
@@ -33,6 +33,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r1sh4bh81&show_icons=true&locale=en" alt="r1sh4bh81" /></p>
 
-<img src="https://orig00.deviantart.net/a4fc/f/2015/272/2/b/fire_animation___test___by_silversmicee-d9bdp4u.png" style="width:50p ;height:75px ;"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=r1sh4bh81&" alt="r1sh4bh81" /></p><img src="https://orig00.deviantart.net/a4fc/f/2015/272/2/b/fire_animation___test___by_silversmicee-d9bdp4u.png" style="width:50px ;height:75px ;"><br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=r1sh4bh81&" alt="r1sh4bh81" /></p><br>
 
 </body>
