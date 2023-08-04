@@ -24,7 +24,7 @@
     <a href="https://linkedin.com/in/r1shabh81" target="blank"><img src="https://img.shields.io/twitter/follow/r1shabh81?logo=linkedin&style=for-the-badge" alt="r1shabh81" /></a>
 
 <br><br>
-<h3> <img src="https://orig00.deviantart.net/a4fc/f/2015/272/2/b/fire_animation___test___by_silversmicee-d9bdp4u.png" alt="Image" style="width: 20px; height: 25px;"> Recent Projects :</h3>
+<h3> <img src="https://orig00.deviantart.net/a4fc/f/2015/272/2/b/fire_animation___test___by_silversmicee-d9bdp4u.png" alt="Image" style="width: 20px; height: 15px;"> Recent Projects :</h3>
 <p><img src="https://bestanimations.com/Signs&Shapes/Arrows/Right/right-arrow-double-2.gif"  style="width: 10px; height: 15px;"><a href="https://musicplayer81.netlify.app/"><b><i>Music Player</i></b></a> : An interactive and playful music player crafted with HTML, CSS, JS, and jQuery, designed purely for fun and enjoyment</p>
 <p><a href="https://replit.com/@RishabhMishra18/antivirus#main.py"><b><i>Antivirusᵇᵉᵗᵃ</i></b></a> : Currently working on it...</p>
 <p><a href="https://compiler81.netlify.app/"><b><i>8BITᵇᵉᵗᵃ</i></b></a> : 8BIT is an online compiler currently in development stage, created with<a href="https://github.com/lucky12651"> @lucky12651</a>, combining the power of Bootstrap, HTML, CSS, JS, and Python to provide a user-friendly coding experience. </p>
