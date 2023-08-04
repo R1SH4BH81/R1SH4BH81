@@ -35,6 +35,6 @@
 
 <div><img align="center" src="https://github-readme-stats.vercel.app/api?username=r1sh4bh81&show_icons=true&locale=en" alt="r1sh4bh81" /></div><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=r1sh4bh81&" alt="r1sh4bh81" /></p><br>
+<p> <img src="https://orig00.deviantart.net/a4fc/f/2015/272/2/b/fire_animation___test___by_silversmicee-d9bdp4u.png" style="width:50px; height:75px;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=r1sh4bh81&" alt="r1sh4bh81" /><img src="https://orig00.deviantart.net/a4fc/f/2015/272/2/b/fire_animation___test___by_silversmicee-d9bdp4u.png" style="width:50px; height:75px;"></p><br>
 
 </body>
