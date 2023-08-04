@@ -1,5 +1,5 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://www.linkedin.com/in/r1shabh81/)
-<h1 align="center"><div class="desktop-only">Hi <img src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" style="width:50px; height:50px;">, I'm Rishabh Mishra </h1>
+<h1 align="center"><div class="desktop-only">Hi <img src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" style="width:50px; height:50px;">, I'm Rishabh Mishra </h1>
 <h3 align="center">Web/Software Developer | Python </h3>
 
 
