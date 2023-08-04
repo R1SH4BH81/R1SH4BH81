@@ -1,4 +1,4 @@
-[![MasterHead](https://th.bing.com/th/id/R.9fc872980278403b87c348e7f486d9f5?rik=GrY0UWi9tWyqGw&riu=http%3a%2f%2fmedia.giphy.com%2fmedia%2ft4DcI9P3dNVoA%2fgiphy.gif&ehk=gL6fiV5NoIBnwAAeROipd0Mp8WV8bmt8kvU3i0NAJGw%3d&risl=&pid=ImgRaw&r=0)](https://www.linkedin.com/in/r1shabh81/)
+[![MasterHead](https://youtu.be/AQjKUN8PORM)](https://www.linkedin.com/in/r1shabh81/)
 <h1 align="center">Hi 👋, I'm Rishabh Mishra</h1>
 <h3 align="center">Web/Software Developer | Python </h3>
 <!--<img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" align="right" width="400">-->
