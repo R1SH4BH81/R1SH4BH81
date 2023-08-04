@@ -6,16 +6,16 @@
 <!--<img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" align="right" width="400">-->
 
 
-- <img src="https://th.bing.com/th/id/R.96daba46896e2486d68dff1cbbd06363?rik=QzFh8TSi4BEC9A&riu=http%3a%2f%2fbestanimations.com%2fScience%2fGears%2floadinggears%2floading-gears-animation-13-2.gif&ehk=0ddRVTtroRyC71VRWYH06aPJejim5zcC2OtdOU4wxOs%3d&risl=&pid=ImgRaw&r=0" style="width: 25px; height: 25px;"> I’m currently working on **[8BIT](https://github.com/R1SH4BH81/8BIT)**
+<img src="https://th.bing.com/th/id/R.96daba46896e2486d68dff1cbbd06363?rik=QzFh8TSi4BEC9A&riu=http%3a%2f%2fbestanimations.com%2fScience%2fGears%2floadinggears%2floading-gears-animation-13-2.gif&ehk=0ddRVTtroRyC71VRWYH06aPJejim5zcC2OtdOU4wxOs%3d&risl=&pid=ImgRaw&r=0" style="width: 25px; height: 25px;"> I’m currently working on **[8BIT](https://github.com/R1SH4BH81/8BIT)**
 
-- 🌱 I’m currently learning **C++**
+<img src="https://7551bdfc54adf45425bb-e1819ba959867bdb3382b3652a5f5ff1.ssl.cf5.rackcdn.com/animations/467/1435256441-Young_animation_education062515_02.gif" style="width: 25px; height: 25px;"> I’m currently learning **C++**
 
-- 💬 Ask me about **Python** , **Algorithms** , **Database** , **Web Development**
+<img src="https://www.gifs.cc/emailclipart/flying-mail-animation.gif" style="width: 25px; height: 25px;"> Ask me about **Python** , **Algorithms** , **Database** , **Web Development**
   
 
-- ⚡ Fun fact **I am still Searching for this**
+<img src="https://media1.tenor.com/images/cc485fcb081ba2326d9e15f0e3d5ee46/tenor.gif?itemid=15270884" style="width: 25px; height: 25px;" > Fun fact **I am still Searching for this**
 
-- 📫 Reach me at **<rishabhmishra.81e@gmail.com>**
+ 📫 Reach me at **<rishabhmishra.81e@gmail.com>**
   <br><br> 
    <img src="https://komarev.com/ghpvc/?username=r1sh4bh81&label=Profile%20views&color=0e75b6&style=flat" alt="Rishabh Mishra" /><br>
    <h3><img src="https://orig00.deviantart.net/a4fc/f/2015/272/2/b/fire_animation___test___by_silversmicee-d9bdp4u.png" alt="Image" style="width: 20px; height: 25px;"> Connect :</h3>
