@@ -1,13 +1,7 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://www.linkedin.com/in/r1shabh81/)
-<h1 align="center"><div class="desktop-only"><img src="https://orig00.deviantart.net/a4fc/f/2015/272/2/b/fire_animation___test___by_silversmicee-d9bdp4u.png" style="width:50px ;height:75px ;"></div>Hi 👋, I'm Rishabh Mishra<div class="desktop-only"><img src="https://orig00.deviantart.net/a4fc/f/2015/272/2/b/fire_animation___test___by_silversmicee-d9bdp4u.png" style="width:50px ;height:75px ;"></div></h1>
+<h1 align="center"><div class="desktop-only">Hi 👋, I'm Rishabh Mishra <img src="https://38.media.tumblr.com/a49ada6ae7aba8e0910199107ee58df7/tumblr_n6etg4m9vS1swjueno1_500.gif"></h1>
 <h3 align="center">Web/Software Developer | Python </h3>
-<style>
-  @media (max-width: 767px) {
-    .desktop-only {
-      display: none;
-    }
-  }
-</style>
+
 
 <!--<img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" align="right" width="400">-->
 
