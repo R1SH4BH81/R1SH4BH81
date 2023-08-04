@@ -33,6 +33,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r1sh4bh81&show_icons=true&locale=en" alt="r1sh4bh81" /></p>
 
-<img src="https://orig00.deviantart.net/a4fc/f/2015/272/2/b/fire_animation___test___by_silversmicee-d9bdp4u.png" style="width:50px,height:75px"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=r1sh4bh81&" alt="r1sh4bh81" /></p><img src="https://orig00.deviantart.net/a4fc/f/2015/272/2/b/fire_animation___test___by_silversmicee-d9bdp4u.png" style="width:50px,height:75px"><br>
+<img src="https://orig00.deviantart.net/a4fc/f/2015/272/2/b/fire_animation___test___by_silversmicee-d9bdp4u.png" style="width:50p ;height:75px ;"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=r1sh4bh81&" alt="r1sh4bh81" /></p><img src="https://orig00.deviantart.net/a4fc/f/2015/272/2/b/fire_animation___test___by_silversmicee-d9bdp4u.png" style="width:50px ;height:75px ;"><br>
 
 </body>
