@@ -15,7 +15,7 @@
 - Reach me at **<rishabhmishra.81e@gmail.com>** <br>
   <br><br> 
    <img src="https://komarev.com/ghpvc/?username=r1sh4bh81&label=Profile%20views&color=0e75b6&style=flat" alt="Rishabh Mishra" /><br>
-   <h3><img src="https://orig00.deviantart.net/a4fc/f/2015/272/2/b/fire_animation___test___by_silversmicee-d9bdp4u.png" alt="Image" style="width: 20px; height: 25px;"><img src="https://img.shields.io/badge/connect-8A2BE2"/> <br></h3>
+   <h3><img src="https://orig00.deviantart.net/a4fc/f/2015/272/2/b/fire_animation___test___by_silversmicee-d9bdp4u.png" alt="Image" style="width: 20px; height: 25px;"><img src="https://img.shields.io/badge/Connect-8A2BE2"/> <br></h3>
      <a href="https://www.instagram.com/rishxbh81" target="blank"><img src="https://img.shields.io/twitter/follow/rishxbh81?logo=instagram&style=for-the-badge" alt="rishabhmishra" /></a>
   <a href="https://codepen.io/rishabhmishra" target="blank"><img src="https://img.shields.io/twitter/follow/r1shabhmishra?logo=codepen&style=for-the-badge" alt="rishabhmishra" /></a>
     <a href="https://twitter.com/rishabh67896796" target="blank"><img src="https://img.shields.io/twitter/follow/rishabh67896796?logo=twitter&style=for-the-badge" alt="rishabh67896796" /></a>
@@ -30,7 +30,7 @@
 <p><a href="https://t.me/edBiharBot"><b><i>Telegram Bot - edBihar</i></b></a> : A Telegram bot designed for collaborative project work with EdBihar, powered by Python and MySQL</p>
 <p><a href="https://r1sh4bh81.github.io/magegame/"><b><i>Mage Game</i></b></a> : This is a fun and exciting adventure game that pays homage to the classic Super Mario while adding its own unique twists.</p>
 <p><img src="https://image.ibb.co/kHHeny/hor_line.png"></p>
-<br><br><h3><img src="https://orig00.deviantart.net/a4fc/f/2015/272/2/b/fire_animation___test___by_silversmicee-d9bdp4u.png" alt="Image" style="width: 20px; height: 25px;"> Stats:</h3>
+<br><br><h3><img src="https://orig00.deviantart.net/a4fc/f/2015/272/2/b/fire_animation___test___by_silversmicee-d9bdp4u.png" alt="Image" style="width: 20px; height: 25px;"><img src="https://img.shields.io/badge/Stats-8A2BE2"/></h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r1sh4bh81&show_icons=true&locale=en&layout=compact" alt="r1sh4bh81" /></p>
 
 <div><img align="center" src="https://github-readme-stats.vercel.app/api?username=r1sh4bh81&show_icons=true&locale=en" alt="r1sh4bh81" /></div><br>
