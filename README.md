@@ -1,4 +1,4 @@
-x   [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishabhcv.netlify.app/)
+ [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishabhcv.netlify.app/)
 <h1 align="center"><div class="desktop-only">Hi <img src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" style="width:50px; height:50px;">, I'm Rishabh Mishra </h1>
 <h3 align="center">Web / UI /Software / Python </h3>
 
@@ -9,7 +9,7 @@ x   [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c
 
 
 
-- Ask me about **Python** , **Algorithms** , **Database** , **Web Development** <br>
+- Ask me about **Python Programming** , **Algorithms** , **Operating Systems** , **Web Development** <br>
 - Fun fact **I play sports too.** <br>
 - I write Blogs at <a href="https://eightbit.netlify.app" >**8BIT Blog**</a>
 - Reach me at **<rishabhmishra.81e@gmail.com>** <br>
