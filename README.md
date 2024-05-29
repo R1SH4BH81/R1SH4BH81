@@ -3,7 +3,7 @@
 <h3 align="center">Web / UI /Software / Python </h3>
 
 
-<img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" align="right" width="400">
+<img src="[https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif](https://gifdb.com/images/high/computer-system-coding-j3szfjv9fwb5at9x.gif)" align="right" width="400">
 
 
 
