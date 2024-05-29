@@ -3,15 +3,15 @@
 <h3 align="center">Web / UI /Software / Python </h3>
 
 
-<!--<img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" align="right" width="400">-->
+<img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" align="right" width="400">
 
 
-<img src="https://th.bing.com/th/id/R.96daba46896e2486d68dff1cbbd06363?rik=QzFh8TSi4BEC9A&riu=http%3a%2f%2fbestanimations.com%2fScience%2fGears%2floadinggears%2floading-gears-animation-13-2.gif&ehk=0ddRVTtroRyC71VRWYH06aPJejim5zcC2OtdOU4wxOs%3d&risl=&pid=ImgRaw&r=0" style="width: 45px; height: 35px;"> I’m currently working on **[8BIT](https://github.com/R1SH4BH81/8BIT)**
+
 
 
 - Ask me about **Python** , **Algorithms** , **Database** , **Web Development** <br>
 - Fun fact **I play sports too.** <br>
-- I write Blogs at <a href="https://eightbit.netlify.app" style="decoration:none;">**8BIT Blogger**</a>
+- I write Blogs at <a href="https://eightbit.netlify.app" >**8BIT Blog**</a>
 - Reach me at **<rishabhmishra.81e@gmail.com>** <br>
   <br><br> 
    <img src="https://komarev.com/ghpvc/?username=r1sh4bh81&label=Profile%20views&color=0e75b6&style=flat" alt="Rishabh Mishra" /><br>
