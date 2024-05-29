@@ -3,7 +3,7 @@
 <h3 align="center">Web / UI /Software / Python </h3>
 
 
-<img src="https://gifdb.com/images/high/computer-system-coding-j3szfjv9fwb5at9x.gif" align="right" width="400" border-radius="20px">
+<img src="https://institute.careerguide.com/wp-content/uploads/2020/10/e426702edf874b181aced1e2fa5c6cde.gif" align="right" width="400" border-radius="20px">
 
 
 
