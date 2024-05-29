@@ -8,7 +8,7 @@
 
 <img src="https://th.bing.com/th/id/R.96daba46896e2486d68dff1cbbd06363?rik=QzFh8TSi4BEC9A&riu=http%3a%2f%2fbestanimations.com%2fScience%2fGears%2floadinggears%2floading-gears-animation-13-2.gif&ehk=0ddRVTtroRyC71VRWYH06aPJejim5zcC2OtdOU4wxOs%3d&risl=&pid=ImgRaw&r=0" style="width: 45px; height: 35px;"> I’m currently working on **[8BIT](https://github.com/R1SH4BH81/8BIT)**
 
-- I’m currently learning **C++** <br>
+
 - Ask me about **Python** , **Algorithms** , **Database** , **Web Development** <br>
 - Fun fact **I play sports too.** <br>
 - I write Blogs at <a href="https://8bit81.blogspot.com/">**8BIT Blogger**</a>
@@ -22,7 +22,10 @@
     <a href="https://linkedin.com/in/r1shabh81" target="blank"><img src="https://img.shields.io/twitter/follow/r1shabh81?logo=linkedin&style=for-the-badge" alt="r1shabh81" /></a>
    
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![ReactJS](https://img.shields.io/badge/React%20JS%20-grey?style=for-the-badge&logo=react) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![Express Js](https://img.shields.io/badge/Express%20JS%20-grey?style=for-the-badge&logo=express)
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![ReactJS](https://img.shields.io/badge/React%20JS%20-grey?style=for-the-badge&logo=react) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=r1sh4bh81&theme=flat&no-frame=false&no-bg=false&margin-w=4)
