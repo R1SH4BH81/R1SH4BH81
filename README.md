@@ -11,7 +11,7 @@
 
 - Ask me about **Python** , **Algorithms** , **Database** , **Web Development** <br>
 - Fun fact **I play sports too.** <br>
-- I write Blogs at <a href="https://8bit81.blogspot.com/">**8BIT Blogger**</a>
+- I write Blogs at <a href="https://eightbit.netlify.app" style="decoration:none;">**8BIT Blogger**</a>
 - Reach me at **<rishabhmishra.81e@gmail.com>** <br>
   <br><br> 
    <img src="https://komarev.com/ghpvc/?username=r1sh4bh81&label=Profile%20views&color=0e75b6&style=flat" alt="Rishabh Mishra" /><br>
