@@ -37,9 +37,9 @@
 <p align="center">
   <a>
       <picture>
-          <source media="(prefers-color-scheme: dark)" srcset='https://skillicons.dev/icons?i=git%2Creac%2Cnodejs%2Cmongodb%2Cexpress%2Cmysql%2Cdjango%2Cgooglecloud&theme=dark' />
+          <source media="(prefers-color-scheme: dark)" srcset='https://skillicons.dev/icons?i=git%2Creact%2Cnodejs%2Cmongodb%2Cexpress%2Cmysql%2Cdjango%2Cgooglecloud&theme=dark' />
           <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset='https://skillicons.dev/icons?i=solidity%2Cgooglecloud&theme=light' />
-          <img src='https://skillicons.dev/icons?i=git%2Creac%2Cnodejs%2Cmongodb%2Cexpress%2Cmysql%2Cdjango%2Cgooglecloud' alt="learning" />
+          <img src='https://skillicons.dev/icons?i=git%2Creact%2Cnodejs%2Cmongodb%2Cexpress%2Cmysql%2Cdjango%2Cgooglecloud' alt="learning" />
         </picture>
   </a>
 </p>
