@@ -52,9 +52,9 @@
 
 <p><img src="https://image.ibb.co/kHHeny/hor_line.png"></p>
 <br><br><h3><img src="https://orig00.deviantart.net/a4fc/f/2015/272/2/b/fire_animation___test___by_silversmicee-d9bdp4u.png" alt="Image" style="width: 20px; height: 25px;"><img src="https://img.shields.io/badge/Stats-8A2BE2"/></h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r1sh4bh81&show_icons=true&theme=react&hide_border=true" alt="r1sh4bh81" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r1sh4bh81&show_icons=true&locale=en&layout=compact" alt="r1sh4bh81" /></p>
 
-<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=r1sh4bh81&show_icons=true&theme=react&hide_border=true /></div><br>
+<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=r1sh4bh81&show_icons=true&locale=en" alt="r1sh4bh81" /></div><br>
 
 <br/>
 <a>
