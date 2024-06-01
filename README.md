@@ -33,8 +33,8 @@
 
 </picture>
 
- <h4 align="center">Learning</h4>
-<p align="center">
+ <h4 >Learning</h4>
+<p 
   <a>
       <picture>
           <source media="(prefers-color-scheme: dark)" srcset='https://skillicons.dev/icons?i=git%2Creact%2Cnodejs%2Cmongodb%2Cexpress%2Cmysql%2Cdjango%2Cgooglecloud&theme=dark' />
