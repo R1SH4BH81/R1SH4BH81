@@ -30,14 +30,21 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Creact%2Cgithub%2Cpython%2Cjavascript%2Ccss%2Cexpress%2Cnodejs&theme=dark" />
     <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=git%2Creact%2Cnodejs%2Cgithub%2Cpython%2Cjavascript%2Ccss%2Cexpress&theme=light" />
     <img src="https://skillicons.dev/icons?i=git%2Creact%2Cnodejs%2Cgithub%2Cpython%2Cjavascript%2Ccss%2Cexpress&theme=light" alt="skills" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html&theme=dark" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=html&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html&theme=light" alt="HTML icon" />
 </picture>
 
-         <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=angular%2Cbootstrap%2Cmongodb%2Cmysql%2Cdjango%2Chtml%2Credux%2Cblender%2Cae%2Clinux%2Cvscode%2Cheroku%2Cfigma&theme=dark" />
-            <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=angular%2Cbootstrap%2Cmongodb%2Cmysql%2Cdjango%2Chtml%2Credux%2Cblender%2Cae%2Clinux%2Cvscode%2Cheroku%2Cfigma&theme=light" />
-            <img src="https://skillicons.dev/icons?i=angular%2Cbootstrap%2Cmongodb%2Cmysql%2Cdjango%2Chtml%2Credux%2Cblender%2Cae%2Clinux%2Cvscode%2Cheroku%2Cfigma&theme=light" alt="skills - 2" />
+ <h4 align="center">Learning</h4>
+<p align="center">
+  <a>
+      <picture>
+          <source media="(prefers-color-scheme: dark)" srcset='https://skillicons.dev/icons?i=solidity%2Cgooglecloud&theme=dark' />
+          <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset='https://skillicons.dev/icons?i=solidity%2Cgooglecloud&theme=light' />
+          <img src='https://skillicons.dev/icons?i=solidity%2Cgooglecloud' alt="learning" />
         </picture>
-
+  </a>
+</p>
         
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=r1sh4bh81&theme=flat&no-frame=false&no-bg=false&margin-w=4)
