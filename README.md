@@ -1,8 +1,6 @@
  [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishabhcv.netlify.app/)
 <h1 align="center">
-  <a>
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I'm+Rishabh!;&center=true&size=30">
-  </a>
+  <p>Hello 👋 , I'm Rishabh Mishra</p>
 </h1>
  <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Development;+Product+Designing;+Layout+Designing;+Ui+UX;+Software+Development&center=true&size=18">
 </h3>
