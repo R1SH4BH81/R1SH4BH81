@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I'm+Rishabh!;&center=true&size=30">
   </a>
 </h1>
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Development;+Product+Designing;+Layout+Designing;&center=true&size=30">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Development;+Product+Designing;+Layout+Designing;+Ui+UX;+Software+Development&center=true&size=30">
 <h3 align="center">Web / UI /Software / Python </h3>
 
 
