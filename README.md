@@ -27,8 +27,8 @@
    
 # 💻 Tech Stack:
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Creact%2Cnodejs%2Cgithub%2Cpython%2Cjavascript%2Ccss%2Cexpress%2Cmysql%2Cvscode%2Cbootstrap%2Chtml&theme=dark" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=git%2Creact%2Cnodejs%2Cgithub%2Cpython%2Cjavascript%2Ccss%2Cexpress%2Cmysql%2Cvscode%2Cbootstrap%2Chtml&theme=light" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=github%2Cpython%2Cjavascript%2Ccss%2Cmysql%2Cvscode%2Cbootstrap%2Chtml&theme=dark" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=github%2Cpython%2Cjavascript%2Ccss%2Cvscode%2Cbootstrap%2Chtml&theme=light" />
     <img src="https://skillicons.dev/icons?i=git%2Creact%2Cnodejs%2Cgithub%2Cpython%2Cjavascript%2Ccss%2Cexpress&theme=light" alt="skills" />
 
 </picture>
@@ -37,9 +37,9 @@
 <p align="center">
   <a>
       <picture>
-          <source media="(prefers-color-scheme: dark)" srcset='https://skillicons.dev/icons?i=mongodb%2Cmysql%2Cdjango%2Cgooglecloud&theme=dark' />
+          <source media="(prefers-color-scheme: dark)" srcset='https://skillicons.dev/icons?i=git%2Creac%2Cnodejs%2Cmongodb%2Cexpress%2Cmysql%2Cdjango%2Cgooglecloud&theme=dark' />
           <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset='https://skillicons.dev/icons?i=solidity%2Cgooglecloud&theme=light' />
-          <img src='https://skillicons.dev/icons?i=mongodb%2Cmysql%2Cdjango%2Cgooglecloud' alt="learning" />
+          <img src='https://skillicons.dev/icons?i=git%2Creac%2Cnodejs%2Cmongodb%2Cexpress%2Cmysql%2Cdjango%2Cgooglecloud' alt="learning" />
         </picture>
   </a>
 </p>
