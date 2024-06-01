@@ -1,5 +1,9 @@
  [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishabhcv.netlify.app/)
-<h1 align="center"><div class="desktop-only">Hi <img src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" style="width:50px; height:50px;">, I'm Rishabh Mishra </h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Sanidhya!;&center=true&size=30">
+  </a>
+</h1>
 <h3 align="center">Web / UI /Software / Python </h3>
 
 
