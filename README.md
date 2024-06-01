@@ -30,6 +30,13 @@
 ![Mongo DB](https://img.shields.io/badge/Mongo%20DB%20-purple?style=for-the-badge&logo=mongodb)
 ![Express Js](https://img.shields.io/badge/Express%20JS%20-grey?style=for-the-badge&logo=express) ![ReactJS](https://img.shields.io/badge/React%20JS%20-black?style=for-the-badge&logo=react)  ![Tailwind Css](https://img.shields.io/badge/Tailwind%20CSS%20-white?style=for-the-badge&logo=tailwindcss)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+
+
+<picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Creact%2Cnodejs%2Cgithub%2Cpython%2Cvue%2Cjavascript%2Ccss%2Cwordpress%2Cpr%2Cexpress%2Cstyledcomponents%2Cnextjs%2Cgraphql&theme=dark" />
+<source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=git%2Creact%2Cnodejs%2Cgithub%2Cpython%2Cvue%2Cjavascript%2Ccss%2Cwordpress%2Cpr%2Cexpress%2Cstyledcomponents%2Cnextjs%2Cgraphql&theme=light" />
+          <img src="https://skillicons.dev/icons?i=git%2Creact%2Cnodejs%2Cgithub%2Cpython%2Cvue%2Cjavascript%2Ccss%2Cwordpress%2Cpr%2Cexpress%2Cstyledcomponents%2Cnextjs%2Cgraphql&theme=light" alt="skills - 1" />
+        </picture>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=r1sh4bh81&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
