@@ -28,11 +28,9 @@
 # 💻 Tech Stack:
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Creact%2Cgithub%2Cpython%2Cjavascript%2Ccss%2Cexpress%2Cnodejs&theme=dark" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=git%2Creact%2Cnodejs%2Cgithub%2Cpython%2Cjavascript%2Ccss%2Cexpress&theme=light" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=git%2Creact%2Cnodejs%2Cgithub%2Cpython%2Cjavascript%2Ccss%2Cexpress%2Cmysql%2Cvscode%2Cbootstrap%2Chtml&theme=light" />
     <img src="https://skillicons.dev/icons?i=git%2Creact%2Cnodejs%2Cgithub%2Cpython%2Cjavascript%2Ccss%2Cexpress&theme=light" alt="skills" />
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html&theme=dark" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=html&theme=light" />
-    <img src="https://skillicons.dev/icons?i=html&theme=light" alt="HTML icon" />
+
 </picture>
 
  <h4 align="center">Learning</h4>
