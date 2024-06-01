@@ -27,10 +27,11 @@
    
 # 💻 Tech Stack:
 <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Creact%2Cnodejs%2Cgithub%2Cpython%2Cvue%2Cjavascript%2Ccss%2Cwordpress%2Cpr%2Cexpress%2Cstyledcomponents%2Cnextjs%2Cgraphql&theme=dark" />
-<source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=git%2Creact%2Cnodejs%2Cgithub%2Cpython%2Cvue%2Cjavascript%2Ccss%2Cwordpress%2Cpr%2Cexpress%2Cstyledcomponents%2Cnextjs%2Cgraphql&theme=light" />
-          <img src="https://skillicons.dev/icons?i=git%2Creact%2Cnodejs%2Cgithub%2Cpython%2Cvue%2Cjavascript%2Ccss%2Cwordpress%2Cpr%2Cexpress%2Cstyledcomponents%2Cnextjs%2Cgraphql&theme=light" alt="skills - 1" />
-        </picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Creact%2Cgithub%2Cpython%2Cjavascript%2Ccss%2Cexpress%2Cnodejs&theme=dark" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=git%2Creact%2Cnodejs%2Cgithub%2Cpython%2Cjavascript%2Ccss%2Cexpress&theme=light" />
+    <img src="https://skillicons.dev/icons?i=git%2Creact%2Cnodejs%2Cgithub%2Cpython%2Cjavascript%2Ccss%2Cexpress&theme=light" alt="skills" />
+</picture>
+
          <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=angular%2Cbootstrap%2Cmongodb%2Cmysql%2Cdjango%2Chtml%2Credux%2Cblender%2Cae%2Clinux%2Cvscode%2Cheroku%2Cfigma&theme=dark" />
             <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=angular%2Cbootstrap%2Cmongodb%2Cmysql%2Cdjango%2Chtml%2Credux%2Cblender%2Cae%2Clinux%2Cvscode%2Cheroku%2Cfigma&theme=light" />
