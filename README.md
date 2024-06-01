@@ -26,8 +26,6 @@
     <a href="https://linkedin.com/in/r1shabh81" target="blank"><img src="https://img.shields.io/twitter/follow/r1shabh81?logo=linkedin&style=for-the-badge" alt="r1shabh81" /></a>
    
 # 💻 Tech Stack:
-
-
 <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Creact%2Cnodejs%2Cgithub%2Cpython%2Cvue%2Cjavascript%2Ccss%2Cwordpress%2Cpr%2Cexpress%2Cstyledcomponents%2Cnextjs%2Cgraphql&theme=dark" />
 <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=git%2Creact%2Cnodejs%2Cgithub%2Cpython%2Cvue%2Cjavascript%2Ccss%2Cwordpress%2Cpr%2Cexpress%2Cstyledcomponents%2Cnextjs%2Cgraphql&theme=light" />
@@ -38,6 +36,8 @@
             <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=angular%2Cbootstrap%2Cmongodb%2Cmysql%2Cdjango%2Chtml%2Credux%2Cblender%2Cae%2Clinux%2Cvscode%2Cheroku%2Cfigma&theme=light" />
             <img src="https://skillicons.dev/icons?i=angular%2Cbootstrap%2Cmongodb%2Cmysql%2Cdjango%2Chtml%2Credux%2Cblender%2Cae%2Clinux%2Cvscode%2Cheroku%2Cfigma&theme=light" alt="skills - 2" />
         </picture>
+
+        
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=r1sh4bh81&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
