@@ -56,7 +56,7 @@
 
 <div><img align="center" src="https://github-readme-stats.vercel.app/api?username=r1sh4bh81&show_icons=true&locale=en" alt="r1sh4bh81" /></div><br>
 
-<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=r1sh4bh81&" alt="r1sh4bh81" /></p><br>
+<br/>
 <a>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=R1SH4BH81&theme=react-dark" />
