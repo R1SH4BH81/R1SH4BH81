@@ -28,7 +28,8 @@
 
 <div align="center">
   <!-- <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=r1sh4bh81&show_icons=true&locale=en&layout=compact" alt="r1sh4bh81" /> -->
-  <img  src="https://github-readme-stats.vercel.app/api?username=r1sh4bh81&show_icons=true&locale=en" alt="r1sh4bh81" />
+<img src="https://github-readme-stats.vercel.app/api?username=R1SH4BH81&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+ 
   
   <img src="https://github-profile-trophy.vercel.app?username=r1sh4bh81&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
