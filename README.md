@@ -2,8 +2,7 @@
 <h1 align="center">
   <p>Hello 👋 , I'm Rishabh Mishra</p>
 </h1>
- <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Development;+Product+Designing;+Layout+Designing;+Ui+UX;+Software+Development&center=true&size=18">
-</h3>
+
 
 
 
@@ -65,3 +64,4 @@
     </picture>
   </a>
 </body>
+
