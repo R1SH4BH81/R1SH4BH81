@@ -18,17 +18,18 @@
   <a href="https://twitter.com/rishabh67896796" target="blank">
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  /></a>
   <a href="https://www.instagram.com/eighty_one___" target="blank">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=Instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge
-  " height="25" alt="Instagram logo"  /></a>
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  /></a>
   <a href="https://codepen.io/rishabhmishra" target="blank">
-  <img src="https://img.shields.io/static/v1?message=Codepen&logo=Codepen&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Codepen logo"  /></a>
+  <img src="https://img.shields.io/static/v1?message=Codepen&logo=&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Codepen logo"  /></a>
   <!-- <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  /> -->
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=r1sh4bh81&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <!-- <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=r1sh4bh81&show_icons=true&locale=en&layout=compact" alt="r1sh4bh81" /> -->
+  <img  src="https://github-readme-stats.vercel.app/api?username=r1sh4bh81&show_icons=true&locale=en" alt="r1sh4bh81" />
+  
   <img src="https://github-profile-trophy.vercel.app?username=r1sh4bh81&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
