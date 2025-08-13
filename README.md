@@ -32,7 +32,7 @@
  
   
 </div>
-<img src="https://github-profile-trophy.vercel.app/?username=r1sh4bh81&theme=dracula&no-frame=false&no-bg=false&margin-w=1" width="100%" height="150">
+<img src="https://github-profile-trophy.vercel.app/?username=r1sh4bh81&theme=dracula&no-frame=false&no-bg=false&margin-w=10" width="100%" height="150">
 
 
 ###
@@ -53,6 +53,7 @@
 
 
 <img src="https://komarev.com/ghpvc/?username=r1sh4bh81&label=Profile%20views&color=0e75b6&style=flat" alt="Rishabh Mishra" /><br>
+
 
 
 
