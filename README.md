@@ -31,7 +31,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=R1SH4BH81&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
  
   
-(https://github-profile-trophy.vercel.app/?username=r1sh4bh81&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+<img src="https://github-profile-trophy.vercel.app/?username=r1sh4bh81&theme=dracula&no-frame=false&no-bg=false&margin-w=4">
 </div>
 
 ###
@@ -52,4 +52,5 @@
 
 
 <img src="https://komarev.com/ghpvc/?username=r1sh4bh81&label=Profile%20views&color=0e75b6&style=flat" alt="Rishabh Mishra" /><br>
+
 
