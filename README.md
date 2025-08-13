@@ -26,14 +26,14 @@
 
 ###
 
-<div align="center">
-  <!-- <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=r1sh4bh81&show_icons=true&locale=en&layout=compact" alt="r1sh4bh81" /> -->
+<!-- <div align="center">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=r1sh4bh81&show_icons=true&locale=en&layout=compact" alt="r1sh4bh81" /> 
 <img src="https://github-readme-stats.vercel.app/api?username=r1sh4bh81&show_icons=true&locale=ene&theme=dracula" alt="r1sh4bh81" />
  
   
 </div>
 <img src="https://github-profile-trophy.vercel.app/?username=r1sh4bh81&theme=dracula&no-frame=false&no-bg=false&margin-w=10" width="100%" height="150">
-
+-->
 
 ###
 
@@ -53,6 +53,7 @@
 
 
 <img src="https://komarev.com/ghpvc/?username=r1sh4bh81&label=Profile%20views&color=0e75b6&style=flat" alt="Rishabh Mishra" /><br>
+
 
 
 
