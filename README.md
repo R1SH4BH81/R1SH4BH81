@@ -5,9 +5,9 @@
 
 <div align="center">
   <picture>
-          <source media="(prefers-color-scheme: dark)" srcset='https://skillicons.dev/icons?i=git%2Creact%2Cnodejs%2Cmongodb%2Cexpress%2Cjs%2Cdjango%2Cfirebase%2cdocker%2Cbabel%2Cbootstrap%2Ccloudflare%2Ccodepen%2Cgraphql%2Cjs%2Clatex%2Clatex%2Cnextjs%2Cnginx%2Cobsidian%2Cpostman%2Cprisma%2Credis%2Credux%2Ctailwind%2Cubuntu%2C&theme=dark' />
-          <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset='https://skillicons.dev/icons?i=git%2Creact%2Cnodejs%2Cmongodb%2Cexpress%2Cjs%2Cdjango%2Cfirebase%2cdocker%2Cbabel%2Cbootstrap%2Ccloudflare%2Ccodepen%2Cgraphql%2Cjs%2Clatex%2Clatex%2Cnextjs%2Cnginx%2Cobsidian%2Cpostman%2Cprisma%2Credis%2Credux%2Ctailwind%2Cubuntu%2C&theme=light' />
-          <img src='https://skillicons.dev/icons?i=git%2Creact%2Cnodejs%2Cmongodb%2Cexpress%2Cjs%2Cdjango%2Cfirebase%2cdocker%2Cbabel%2Cbootstrap%2Ccloudflare%2Ccodepen%2Cgraphql%2Cjs%2Clatex%2Clatex%2Cnextjs%2Cnginx%2Cobsidian%2Cpostman%2Cprisma%2Credis%2Credux%2Ctailwind%2Cubuntu%2C' alt="tech stack" />
+          <source media="(prefers-color-scheme: dark)" srcset='https://skillicons.dev/icons?i=git%2Creact%2Cnodejs%2Cmongodb%2Cexpress%2Cjs%2Cdjango%2Cfirebase%2cdocker%2Cbabel%2Cbootstrap%2Ccloudflare%2Ccodepen%2Cgraphql%2Cjs%2Clatex%2Cnextjs%2Cobsidian%2Cpostman%2Cprisma%2Credis%2Credux%2Ctailwind%2Cubuntu%2C&theme=dark' />
+          <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset='https://skillicons.dev/icons?i=git%2Creact%2Cnodejs%2Cmongodb%2Cexpress%2Cjs%2Cdjango%2Cfirebase%2cdocker%2Cbabel%2Cbootstrap%2Ccloudflare%2Ccodepen%2Cgraphql%2Cjs%2Clatex%2Cnext%2Cobsidian%2Cpostman%2Cprisma%2Credis%2Credux%2Ctailwind%2Cubuntu%2C&theme=light' />
+          <img src='https://skillicons.dev/icons?i=git%2Creact%2Cnodejs%2Cmongodb%2Cexpress%2Cjs%2Cdjango%2Cfirebase%2cdocker%2Cbabel%2Cbootstrap%2Ccloudflare%2Ccodepen%2Cgraphql%2Cjs%2Clatex%2Cnextjs%2Cobsidian%2Cpostman%2Cprisma%2Credis%2Credux%2Ctailwind%2Cubuntu%2C' alt="tech stack" />
         </picture>
 </div>
 
@@ -55,6 +55,7 @@
 
 
 <img src="https://komarev.com/ghpvc/?username=r1sh4bh81&label=Profile%20views&color=0e75b6&style=flat" alt="Rishabh Mishra" /><br>
+
 
 
 
