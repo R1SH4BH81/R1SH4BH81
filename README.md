@@ -7,7 +7,7 @@
   <picture>
           <source media="(prefers-color-scheme: dark)" srcset='https://skillicons.dev/icons?i=git%2Cgithub%2Cpython%2Creact%2Cnodejs%2Cmongodb%2Cexpress%2Cjs%2Cdjango%2Cfirebase&theme=dark' />
           <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset='https://skillicons.dev/icons?i=git%2Cgithub%2Cpython%2Creact%2Cnodejs%2Cmongodb%2Cexpress%2Cmysql%2Cdjango%2Cgooglecloud%2cprisma%2Csupabase&theme=ight' />
-          <img src='https://skillicons.dev/icons?i=git%2Creact%2Cnodejs%2Cmongodb%2Cexpress%2Cjs%2Cdjango%2Cfirebase' alt="learning" />
+          <img src='https://skillicons.dev/icons?i=git%2Creact%2Cnodejs%2Cmongodb%2Cexpress%2Cjs%2Cdjango%2Cfirebase%2cprisma%2Csupabase' alt="tech stack" />
         </picture>
 </div>
 
@@ -55,6 +55,7 @@
 
 
 <img src="https://komarev.com/ghpvc/?username=r1sh4bh81&label=Profile%20views&color=0e75b6&style=flat" alt="Rishabh Mishra" /><br>
+
 
 
 
