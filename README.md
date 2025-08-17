@@ -43,15 +43,16 @@
 
 ###
  <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=R1SH4BH81&theme=react-dark" />
+    <!--    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=R1SH4BH81&theme=react-dark" />
       <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=R1SH4BH81&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
-      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=R1SH4BH81&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true"  />
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=R1SH4BH81&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true"  />-->
     </picture>
 
 ###
 
 
 <img src="https://komarev.com/ghpvc/?username=r1sh4bh81&label=Profile%20views&color=0e75b6&style=flat" alt="Rishabh Mishra" /><br>
+
 
 
 
