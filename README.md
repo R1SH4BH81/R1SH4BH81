@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  /></a>
   <a href="https://codepen.io/rishabhmishra" target="blank">
   <img src="https://img.shields.io/static/v1?message=Codepen&logo=&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Codepen logo"  /></a>
- <a href="https://rishabhcv.vercel.app" target="blank">
+ <a href="https://rishabh.vercel.app" target="blank">
   <img src="https://img.shields.io/static/v1?message=Portfolio&logo=&label=&color=4B0082&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Portfolio logo"  /></a>
   <!-- <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  /> -->
 </div>
