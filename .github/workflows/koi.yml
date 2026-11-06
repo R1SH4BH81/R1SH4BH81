@@ -34,4 +34,3 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git commit --quiet --message "koi: draw the day's koi"
           git push --quiet
-```
