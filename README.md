@@ -38,7 +38,7 @@
 ###
 
 <picture>
-  <img src="https://pacman.abozanona.me?username=R1SH4BH81" />
+ <img src="koi/koi.gif" width="256" alt="My koi" />
 </picture>
 
 
