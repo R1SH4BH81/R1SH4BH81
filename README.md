@@ -12,7 +12,7 @@ Full-stack developer building deployment platforms, devtools, and AI apps. Lead 
 ## Contributions
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/R1SH4BH81" alt="Contribution heatmap" />
+  <img src="contributions.svg" alt="Contribution heatmap" />
 </div>
 
 <!-- ![My koi](koi/koi.gif) -->
