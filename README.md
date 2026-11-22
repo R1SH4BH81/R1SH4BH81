@@ -11,9 +11,9 @@ Full-stack developer building deployment platforms, devtools, and AI apps. Lead 
 
 ## Contributions
 
-![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=R1SH4BH81&theme=react-dark&area=true&hide_border=true)
+![Contribution heatmap](https://ghchart.rshah.org/R1SH4BH81)
 
-![My koi](koi/koi.gif)
+<!-- ![My koi](koi/koi.gif) -->
 
 ## Links
 
